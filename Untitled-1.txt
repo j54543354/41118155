@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的個人網頁</title>
+</head>
+<body>
+    <h1>個人資料</h1>
+    <p>學號: 41118155</p>
+    <p>姓名: 陳柏磬</p>
+</body>
+</html>
+
